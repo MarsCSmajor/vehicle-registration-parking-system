@@ -20,5 +20,7 @@ For Windows 8,10,11.
 To run the code run following commands on terminal. NOTE: Make sure your in the folder where the code and other important files is located
 
 Cmake .
+
 make
+
 .\ParkingAPP
