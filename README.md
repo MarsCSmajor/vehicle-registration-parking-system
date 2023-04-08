@@ -13,8 +13,10 @@ New Features will be added in the future and improvements will me made.
 
 # Instructions for Setup
 Download all the code in a file and make sure everything is in there and that no code is changed.
+
 For Windows users, make sure you have MingW compiler working or that your workspace supports #include<windows.h> and other c++ libraries 
-For Windows 8,10,11 
+For Windows 8,10,11.
+
 To run the code run following commands on terminal. NOTE: Make sure your in the folder where the code and other important files is located
 
 Cmake .
