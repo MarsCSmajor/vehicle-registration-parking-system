@@ -1,5 +1,6 @@
 #ifndef USER_H
 #define USER_H 
+#include "library.h"
 class user {
     private: 
     string name; 
