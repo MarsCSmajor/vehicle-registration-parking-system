@@ -13,9 +13,10 @@ New Features will be added in the future and improvements will me made.
 
 # Instructions for Setup
 Download all the code in a file and make sure everything is in there and that no code is changed.
-For Windows users, make sure you have MingW compiler working or that your workspace supports #include<windows.h> 
+For Windows users, make sure you have MingW compiler working or that your workspace supports #include<windows.h> and other c++ libraries 
 For Windows 8,10,11 
- Compile the code as follows 
- g++ -o parkingApp .\parking.cpp .\user.cpp .\display.cpp .\main.cpp .\savedata.cpp .\login.cpp
- .\parkingApp
-Later in the future, I will change a bit the files and have CMAKE working for ease
+To run the code run following commands on terminal. NOTE: Make sure your in the folder where the code and other important files is located
+
+Cmake .
+make
+.\ParkingAPP
