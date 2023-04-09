@@ -26,3 +26,9 @@ Cmake .
 make
 
 .\ParkingAPP
+
+If it doesn't work, use g++
+
+ g++ -o parkingApp .\parking.cpp .\user.cpp .\display.cpp .\main.cpp .\savedata.cpp .\login.cpp
+
+.\parkingApp
