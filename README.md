@@ -1,5 +1,4 @@
 # Car Registration Parking system
-A program fully coded on C++ by MarsCSmajor
 Compability: Only for Windows 8, 10, 11
 
 The program creates a parking system of vehicles. Takes in VIN number, license plates, vehicle type, and name of the owner. 
@@ -32,3 +31,4 @@ If it doesn't work, use g++
  g++ -o parkingApp .\parking.cpp .\user.cpp .\display.cpp .\main.cpp .\savedata.cpp .\login.cpp
 
 .\parkingApp
+
